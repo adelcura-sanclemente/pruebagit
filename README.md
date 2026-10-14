@@ -74,15 +74,7 @@ Las tareas se detectan automáticamente del canvas. Formato:
 
 Descripción opcional de la tarea.
 Puede tener varias líneas.
-```
 
-Estados (por color del nodo):
-- 🔴 **Rojo** - Por hacer
-- 🟠 **Naranja** - En progreso
-- 🔵 **Cian** - En revisión
-- 🟢 **Verde** - Hecho
-- ⬜ **Gris** - Bloqueado
-- 🟣 **Morado** - Propuesto
 
 ## Estructura del proyecto
 
